@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	index.jsp 파일
+	index.j로 정
 	집
 	에
 	가
