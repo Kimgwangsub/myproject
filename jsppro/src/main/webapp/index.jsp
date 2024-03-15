@@ -8,19 +8,13 @@
 </head>
 <body>
 	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
-	index.jsp 파일
+	집
+	에
+	가
+	고
+	싶
+	다
+	젠
+	장
 </body>
 </html>
